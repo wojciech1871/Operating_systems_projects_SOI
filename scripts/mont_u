@@ -1,0 +1,1 @@
+sudo mount -t minix -o loop,offset=9216 minix203.img user_files
